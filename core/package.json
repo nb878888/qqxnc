@@ -48,5 +48,8 @@
       "src/__bolt_manifest.json",
       "share.txt"
     ]
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
